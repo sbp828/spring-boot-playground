@@ -7,3 +7,4 @@ package com.example.exception;\n\npublic class GlobalExceptionHandler {}
 // incremental change 27
 // incremental change 35
 // incremental change 45
+// incremental change 46
