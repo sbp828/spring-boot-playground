@@ -15,3 +15,4 @@ package com.example.entity;\n\npublic class User {}
 // incremental change 83
 // incremental change 84
 // incremental change 90
+// incremental change 92
